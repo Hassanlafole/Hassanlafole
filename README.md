@@ -15,9 +15,10 @@ I'm a fullstack web developer with a strong focus on the MERN stack (MongoDB, Ex
 * 🧠  I'm learning Frameworks, and AI
 * 🤝  I'm open to collaborating on Interesting Projects and Ai
 
-<a href="https://www.github.com/Hassanlafole" target="_blank" rel="noreferrer"><img
+<p align="left"> 
+  <a href="https://www.github.com/Hassanlafole" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Hassanlafole?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hassanlafole&label=Profile%20views&color=0e75b6&style=flat" alt="Hassanlafole /> </p>
+  <img src="https://komarev.com/ghpvc/?username=Hassanlafole&label=Profile%20views&color=0e75b6&style=flat" alt="Hassanlafole /> </p>
 ### Skills
 
 <p align="left">
