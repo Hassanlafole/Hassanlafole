@@ -15,10 +15,10 @@ I'm a fullstack web developer with a strong focus on the MERN stack (MongoDB, Ex
 * 🧠  I'm learning Frameworks, and AI
 * 🤝  I'm open to collaborating on Interesting Projects and Ai
 
-<p align="left"> 
-  <a href="https://www.github.com/Hassanlafole" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Hassanlafole?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Hassanlafole&label=Profile%20views&color=0e75b6&style=flat" alt="Hassanlafole /> </p>
+<a href="https://www.github.com/Hassanlafole" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Hassanlafole?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+<img src="https://komarev.com/ghpvc/?username=Hassanlafole&label=Profile%20views&color=0e75b6&style=flat" alt="Hassanlafole" /></a>
+  
 ### Skills
 
 <p align="left">
@@ -47,7 +47,7 @@ src="https://img.shields.io/github/followers/Hassanlafole?logo=github&style=for-
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/Hassanlafole#4445" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Hassanlafole" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/h.lafoole" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hassan-nur-hassan-412670203" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/21978159/hassan-nur-hassan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/HassanLafoole" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/Hassanlafole#4445" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Hassanlafole" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/h.lafoole" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hassan-nur-hassan-412670203" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/21978159/hassan-nur-hassan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/HassanLafoole" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://www.facebook.com/iram.kumari.1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a></p>
 ### Badges
 
 <b>My GitHub Stats</b>
